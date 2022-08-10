@@ -16,6 +16,15 @@ iii). Remove products from cart
 
 Note. Use redux for state management.
 
+## UI :
+![1](https://user-images.githubusercontent.com/107143531/183856370-22bc2bba-b573-41bd-a8f4-05e4379335b2.png)
+![2](https://user-images.githubusercontent.com/107143531/183856379-2be88c36-4637-491f-a845-8edcd2fe5ac0.png)
+![3](https://user-images.githubusercontent.com/107143531/183856389-c7572b74-52b7-43f7-aed1-59d23068d435.png)
+![4](https://user-images.githubusercontent.com/107143531/183856407-e3bf5cf0-1c0a-4488-8c7d-bdf41d69b636.png)
+![5](https://user-images.githubusercontent.com/107143531/183856420-22f1cb22-7f01-41fd-8932-288eab912e5c.png)
+![6](https://user-images.githubusercontent.com/107143531/183856433-8da54da3-1cd8-443e-804f-822d3b3ae0d2.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
