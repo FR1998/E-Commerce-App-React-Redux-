@@ -2,6 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Task Deatils : 
+
+Make an ecommerce like application with the following functionalities
+
+
+i). List of all products (use fakestoreapi.com for getting data)
+    there should be a button or dropdown which shows categories,
+    upon the selection of categories,all products related to only 
+    that categories will be shown.
+ii). Add "AddToCart", where the user  can increase/decrease qunatity
+iii). Remove products from cart
+
+Note. Use redux for state management.
+
 ## Available Scripts
 
 In the project directory, you can run:
